@@ -1,1 +1,2 @@
-include ':ThinDownloadManager', ':ThinDownloadManagerTestApp'
+rootProject.name = "ThinDownloadManager"
+include ':app'
